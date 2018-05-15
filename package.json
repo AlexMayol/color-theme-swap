@@ -1,0 +1,20 @@
+{
+  "name": "color-theme-swap",
+  "version": "1.0.0",
+  "description": "Demo with CSS Variables.",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexMayol/color-theme-swap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexMayol/color-theme-swap/issues"
+  },
+  "homepage": "https://github.com/AlexMayol/color-theme-swap#readme"
+}
